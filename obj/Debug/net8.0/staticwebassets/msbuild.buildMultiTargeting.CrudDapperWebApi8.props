@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudDapperWebApi8.props" />
+</Project>
